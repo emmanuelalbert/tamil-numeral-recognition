@@ -458,34 +458,6 @@ Proposed future directions include multi-digit recognition, evaluation
 on more varied real-world data, GAN-based data augmentation, and support
 for numerals from additional Indian scripts.
 
-## Research paper and citation
-
-This repository is based on the research manuscript:
-
-**Image-Based Tamil Numeral Recognition Using Convolutional Neural
-Networks**
-
-**Authors:** Sandeep Kumar M, Umamaheswari S, and Arunadevi E\
-**Affiliations:** Department of Mathematics, School of Advanced
-Sciences, Vellore Institute of Technology, Chennai, Tamil Nadu, India.
-
-If you use this project or its reported methodology in academic work,
-please cite the manuscript and verify its final publication details
-before submitting a formal reference.
-
-``` text
-Sandeep Kumar M, Umamaheswari S, and Arunadevi E.
-"Image-Based Tamil Numeral Recognition Using Convolutional Neural Networks."
-Research manuscript.
-```
-
-## Acknowledgements
-
-The research acknowledges the infrastructural support provided by the
-Vellore Institute of Technology, Chennai.
-
-------------------------------------------------------------------------
-
 ## Notes for repository maintainers
 
 Before publishing the repository, verify and update the following:
